@@ -1,0 +1,4 @@
+User-agent: *
+Dissalow:
+
+Sitemap: https://netfixerpro.github.io/website/sitemap.xml
